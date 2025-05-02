@@ -20,7 +20,7 @@ Este projeto tem como objetivo apresentar um **dashboard interativo** para anál
 
 1. Clone este repositório:
  
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Anac95/App-Dash.py/tree/main
 
 2. Instale as dependências:
 pip install -r requirements.txt
@@ -32,11 +32,9 @@ Ou, se estiver em um notebook Jupyter, abra o .ipynb e execute célula por célu
 📁 Estrutura do Projeto
 ├── Dash.py.ipynb
 ├── README.md
-└── dados/ (se houver)
+└── ecommerce_estatistica.csv
 
 📌 Observações
 Este projeto é parte dos meus estudos na EBAC para transição de carreira para Análise de Dados.
 
----
 
-Se quiser, posso montar o README.md completo com base no seu notebook — é só me dizer se o projeto foca mais em vendas, produtos, clientes, ou outra coisa!
