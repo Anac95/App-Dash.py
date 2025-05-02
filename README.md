@@ -20,7 +20,8 @@ Este projeto tem como objetivo apresentar um **dashboard interativo** para anál
 
 1. Clone este repositório:
  
-   git clone https://github.com/Anac95/App-Dash.py/tree/main
+ git clone https://github.com/Anac95/App-Dash.py.git
+
 
 2. Instale as dependências:
 pip install -r requirements.txt
